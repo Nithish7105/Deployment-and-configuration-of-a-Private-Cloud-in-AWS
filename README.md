@@ -1,7 +1,7 @@
 # EX - 4 Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 
-Name: NITHISH KUMAR.B
-Reg no: 212223040134
+# Name: NITHISH KUMAR.B
+# Reg no: 212223040134
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
